@@ -7,7 +7,7 @@
 *
 */
 
-struct DataNode
+typedef struct DataNode
 {
     char* cmd;
     char* desc;
